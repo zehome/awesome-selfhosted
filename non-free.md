@@ -24,6 +24,10 @@
 ## Decentralized Network
 
 - [Synereo](https://www.synereo.com/) - Decentralized network system based on blockchain that allows fast speed and great trust level. ([Source Code](https://github.com/synereo/synereo)) `Scala`  
+
+## E-books and Integrated Library Systems (ILS)
+
+- [Ubooquity](https://vaemendis.net/ubooquity/)  `⊘ Proprietary` - Ubooquity is a free to use, versatile, lightweight, multi-platform, and secure home server for your comic and e-book library. `Java`
  
 ## Federated Identity/Authentication
 
@@ -50,7 +54,7 @@
 
 ## Maps & GPS
 
-- [OpenMapTiles Server](https://openmaptiles.org/) `⊘ Proprietary` - Set of tools for self-hosting of OpenStreetMap vector tiles. ([Demo](https://openmaptiles.org/), [Partial Source Code](https://github.com/openmaptiles)) `Python/JavaScript`
+- [OpenMapTiles Server](https://openmaptiles.org/) `⊘ Proprietary` - Set of tools for self-hosting of OpenStreetMap vector tiles. ([Partial Source Code](https://github.com/openmaptiles)) `Python/JavaScript`
 
 ## Media Streaming
 
@@ -87,7 +91,7 @@
 - [Axigen](https://www.axigen.com/mail-server/free/) `⊘ Proprietary` -  Great alternative to open source. It's a turnkey messaging solution, perfect for small & micro businesses, integration projects or test environments.
 - [Cloudron](https://cloudron.io) `⊘ Proprietary` - Open-core software allowing you to effortlessly self-host web apps on your server. ([Source Code](https://git.cloudron.io/groups/cloudron)) `Nodejs/Docker`
 - [hMailServer](https://www.hmailserver.com) `⊘ Proprietary` - Open source e-mail server for Microsoft Windows. ([Source Code](https://github.com/hmailserver/hmailserver)) `C++`
-- [Poste.io](https://poste.io) `⊘ Proprietary` - Full featured solution for your Email server. Native implementation of last anti-SPAM methods, webmail and easy administration included. Free tier available. ([Demo](https://poste.io/admin/login#admin@poste.io;admin))
+- [Poste.io](https://poste.io) `⊘ Proprietary` - Full featured solution for your Email server. Native implementation of last anti-SPAM methods, webmail and easy administration included. Free tier available. ([Demo](https://poste.io/demo))
 
   
 ## Software Development
